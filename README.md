@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, My name is Matthew. I am a .NET Developer 👋
+
+On my github, You can find some of my projects. Let me introduce them to you briefly:
+ - MoneyOrganizer - application that allows you to manage expenses
+ - Team-Up - startup application that allows users to connect into teams so they can work on own projects
+ - MagPro - application for warehouse and production management
+ - WorkTimeApp - application for counting employee's working time
+
+📫 How to reach me:
+- Phone number: +48 665 256 665
+- Email: mateusz.michal.woloszynski@gmail.com
 
 <!--
 **mwoloszynski/mwoloszynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
